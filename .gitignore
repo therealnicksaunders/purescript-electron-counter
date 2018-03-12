@@ -8,3 +8,4 @@
 /.purs*
 /.psa*
 count.txt
+app/bundle.js
