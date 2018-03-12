@@ -1,4 +1,12 @@
 {
+  "name": "purescript-electron-counter",
+  "description": "Useless little demo app (or barebones starter template) for a PureScript Electron app with file access",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/therealnicksaunders/purescript-electron-counter"
+  },
+  "license": "MIT",
   "main": "main.js",
   "scripts": {
     "build": "pulp build --to app/bundle.js",
